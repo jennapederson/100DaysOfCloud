@@ -39,25 +39,25 @@ You can find me on:
 
 ## Stepping out the door
 
-- [ ] ☁️ [Day 1](Journey/001/Readme.md)
-- [ ] ☁️ [Day 2](Journey/002/Readme.md)
-- [ ] ☁️ [Day 3](Journey/003/Readme.md)
-- [ ] ☁️ [Day 4](Journey/004/Readme.md)
-- [ ] ☁️ [Day 5](Journey/005/Readme.md)
-- [ ] ☁️ [Day 6](Journey/006/Readme.md)
-- [ ] ☁️ [Day 7](Journey/007/Readme.md)
-- [ ] ☁️ [Day 8](Journey/008/Readme.md)
-- [ ] ☁️ [Day 9](Journey/009/Readme.md)
-- [ ] ☁️ [Day 10](Journey/010/Readme.md)
+- ☁️ [Day 1](Journey/001/Readme.md)
+- ☁️ [Day 2](Journey/002/Readme.md)
+- ☁️ [Day 3](Journey/003/Readme.md)
+- ☁️ [Day 4](Journey/004/Readme.md)
+- ☁️ [Day 5](Journey/005/Readme.md)
+- ☁️ [Day 6](Journey/006/Readme.md)
+- ☁️ [Day 7](Journey/007/Readme.md)
+- ☁️ [Day 8](Journey/008/Readme.md)
+- ☁️ [Day 9](Journey/009/Readme.md)
+- ☁️ [Day 10](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ [Day 11](Journey/011/Readme.md)
-- [ ] ☁️ [Day 12](Journey/012/Readme.md)
-- [ ] ☁️ [Day 13](Journey/013/Readme.md)
+- ☁️ [Day 11](Journey/011/Readme.md)
+- ☁️ [Day 12](Journey/012/Readme.md)
+- ☁️ [Day 13](Journey/013/Readme.md)
+- ☁️ [Day 14](Journey/014/Readme.md)
+- ☁️ [Day 15](Journey/015/Readme.md)
 <!--
-- [ ] ☁️ [Day 14](Journey/014/Readme.md)
-- [ ] ☁️ [Day 15](Journey/015/Readme.md)
 - [ ] ☁️ [Day 16](Journey/016/Readme.md)
 - [ ] ☁️ [Day 17](Journey/017/Readme.md)
 - [ ] ☁️ [Day 18](Journey/018/Readme.md)
