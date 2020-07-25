@@ -10,6 +10,8 @@ Got my hands dirty with the AWS CDK and created a minimalist serverless app with
 
 - [FooBar Serverless](https://youtu.be/XVHGq2uJu9s) video "SIMPLEST SERVERLESS APP WITH AWS CDK (API Gateway, AWS Lambda and DynamoDB)" by [Marcia Villalba](https://twitter.com/mavi888uy)
 - [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/)
+- [AWS CDK code repo](https://github.com/aws/aws-cdk)
+- [AWS CDK API Docs](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html)
 
 # Social proof
 
