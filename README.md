@@ -60,8 +60,8 @@ You can find me on:
 - ☁️ [Day 16](Journey/016/Readme.md)
 - ☁️ [Day 17](Journey/017/Readme.md)
 - ☁️ [Day 18](Journey/018/Readme.md)
-<!--
 - ☁️ [Day 19](Journey/019/Readme.md)
+<!--
 - ☁️ [Day 20](Journey/020/Readme.md)
 
 ## Crossing the bridge
