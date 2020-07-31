@@ -62,11 +62,11 @@ You can find me on:
 - ☁️ [Day 18](Journey/018/Readme.md)
 - ☁️ [Day 19](Journey/019/Readme.md)
 - ☁️ [Day 20](Journey/020/Readme.md)
-<!--
 
 ## Crossing the bridge
 
 - ☁️ [Day 21](Journey/021/Readme.md)
+<!--
 - ☁️ [Day 22](Journey/022/Readme.md)
 - ☁️ [Day 23](Journey/023/Readme.md)
 - ☁️ [Day 24](Journey/024/Readme.md)
