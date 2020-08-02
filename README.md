@@ -66,8 +66,8 @@ You can find me on:
 ## Crossing the bridge
 
 - ☁️ [Day 21](Journey/021/Readme.md)
-<!--
 - ☁️ [Day 22](Journey/022/Readme.md)
+<!--
 - ☁️ [Day 23](Journey/023/Readme.md)
 - ☁️ [Day 24](Journey/024/Readme.md)
 - ☁️ [Day 25](Journey/025/Readme.md)

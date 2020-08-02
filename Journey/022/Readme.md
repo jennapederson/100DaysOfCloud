@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Day 22
 
-# New post title here
+Rolled through this AWS Amplify getting started guide for a Vue app... again. Worked through some of the kinks and learned more about how to use the AppSync console to run graphql queries. Read more about customizing the authentication UI components and workflows.
 
-## Introduction
+# My code
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+[hello-amplify-vue-app](https://github.com/jennapederson/hello-amplify-vue-app)
 
-## Prerequisite
+# Resources
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- [Amplify Getting started with Vue tutorial](https://docs.amplify.aws/start/q/integration/vue)
 
-## Use Case
+# Social proof
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[The tweet](https://twitter.com/jennapederson/status/1289763756302450688?s=20)
