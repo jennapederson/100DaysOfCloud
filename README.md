@@ -68,8 +68,8 @@ You can find me on:
 - ☁️ [Day 21](Journey/021/Readme.md)
 - ☁️ [Day 22](Journey/022/Readme.md)
 - ☁️ [Day 23](Journey/023/Readme.md)
-<!--
 - ☁️ [Day 24](Journey/024/Readme.md)
+<!--
 - ☁️ [Day 25](Journey/025/Readme.md)
 - ☁️ [Day 26](Journey/026/Readme.md)
 - ☁️ [Day 27](Journey/027/Readme.md)
