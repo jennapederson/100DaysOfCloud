@@ -69,11 +69,11 @@ You can find me on:
 - ☁️ [Day 22](Journey/022/Readme.md)
 - ☁️ [Day 23](Journey/023/Readme.md)
 - ☁️ [Day 24](Journey/024/Readme.md)
-<!--
 - ☁️ [Day 25](Journey/025/Readme.md)
 - ☁️ [Day 26](Journey/026/Readme.md)
 - ☁️ [Day 27](Journey/027/Readme.md)
 - ☁️ [Day 28](Journey/028/Readme.md)
+<!--
 - ☁️ [Day 29](Journey/029/Readme.md)
 - ☁️ [Day 30](Journey/030/Readme.md)
 
