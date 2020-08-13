@@ -74,8 +74,8 @@ You can find me on:
 - ☁️ [Day 27](Journey/027/Readme.md)
 - ☁️ [Day 28](Journey/028/Readme.md)
 - ☁️ [Day 29](Journey/029/Readme.md)
-<!--
 - ☁️ [Day 30](Journey/030/Readme.md)
+<!--
 
 ## Into the bushy, thorny forest
 
