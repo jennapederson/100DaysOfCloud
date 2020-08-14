@@ -75,11 +75,11 @@ You can find me on:
 - ☁️ [Day 28](Journey/028/Readme.md)
 - ☁️ [Day 29](Journey/029/Readme.md)
 - ☁️ [Day 30](Journey/030/Readme.md)
-<!--
 
 ## Into the bushy, thorny forest
 
 - ☁️ [Day 31](Journey/031/Readme.md)
+<!--
 - ☁️ [Day 32](Journey/032/Readme.md)
 - ☁️ [Day 33](Journey/033/Readme.md)
 - ☁️ [Day 34](Journey/034/Readme.md)
