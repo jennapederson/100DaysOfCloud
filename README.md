@@ -80,7 +80,6 @@ You can find me on:
 
 - ☁️ [Day 31](Journey/031/Readme.md)
 - ☁️ [Day 32](Journey/032/Readme.md)
-<!--
 - ☁️ [Day 33](Journey/033/Readme.md)
 - ☁️ [Day 34](Journey/034/Readme.md)
 - ☁️ [Day 35](Journey/035/Readme.md)
@@ -93,6 +92,7 @@ You can find me on:
 ## Trekking the dunes
 
 - ☁️ [Day 41](Journey/041/Readme.md)
+<!--
 - ☁️ [Day 42](Journey/042/Readme.md)
 - ☁️ [Day 43](Journey/043/Readme.md)
 - ☁️ [Day 44](Journey/044/Readme.md)
