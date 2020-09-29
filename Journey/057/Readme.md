@@ -1,6 +1,6 @@
 # Day 57
 
-Joined the Serverless MN meetup with guest speaker and AWS Data Hero, [Alex Debrie](https://twitter.com/alexbdebrie), talking about Single-Table Design in DynamoDB and five strategies to one-to-many relationships.
+Joined the Serverless MN meetup with guest speaker and AWS Data Hero, [Alex Debrie](https://twitter.com/alexbdebrie), talking about Single-Table Design in DynamoDB and five strategies for one-to-many relationships.
 
 Tips:
 - know your access patterns in advance
@@ -22,8 +22,9 @@ good when: multiple (>2) evels of hierarchy; when searching a level in hierarchy
 
 - [Alex Debrie](https://twitter.com/alexbdebrie)
 - [Understanding Single-Table Design in DynamoDB @ Serverless MN](https://www.meetup.com/Serverless-MN/events/273463018/)
+- [DynamoDB Book](http://dynamodbbook.com/)
 - [Serverless MN](https://twitter.com/ServerlessMN)
 
 # Social proof
 
-[The tweet]()
+[The tweet](https://twitter.com/jennapederson/status/1310748431971909632?s=20)
