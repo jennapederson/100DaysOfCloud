@@ -1,52 +1,29 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Day 57
 
-# New post title here
+Joined the Serverless MN meetup with guest speaker and AWS Data Hero, [Alex Debrie](https://twitter.com/alexbdebrie), talking about Single-Table Design in DynamoDB and five strategies to one-to-many relationships.
 
-## Introduction
+Tips:
+- know your access patterns in advance
+- get comfortable with denormalization
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+### How to do one-to-many relationships:
 
-## Prerequisite
+There are five strategies:
+1. denormalization + complex attribute
+good when: no access pattern on related items directly; limited number of related items (400kb limit)
+2. denormalization with duplication
+good when: duplicated data is immutable; duplicated data doesn't change often or is not replicated much
+3. composite primary key + query
+4. secondary index + query
+5. composite sort key
+good when: multiple (>2) evels of hierarchy; when searching a level in hierarchy, you want all sub-items
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+# Resources
 
-## Use Case
+- [Alex Debrie](https://twitter.com/alexbdebrie)
+- [Understanding Single-Table Design in DynamoDB @ Serverless MN](https://www.meetup.com/Serverless-MN/events/273463018/)
+- [Serverless MN](https://twitter.com/ServerlessMN)
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Social proof
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[The tweet]()
