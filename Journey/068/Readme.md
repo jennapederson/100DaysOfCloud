@@ -8,4 +8,4 @@ Reviewed all my notes I've taken since starting to study for the AWS Developer A
 
 # Social proof
 
-[The tweet]()
+Right here!
