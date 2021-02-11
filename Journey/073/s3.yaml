@@ -1,0 +1,15 @@
+Transform:
+  Name: 'AWS::Include'
+  Parameters:
+    Location: 's3://BUCKET-NAME/tags.yaml'
+
+Resources:
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      'Fn::Transform':
+        Name: 'AWS::Include'
+        Parameters:
+          Location: 's3://BUCKET-NAME/tags.yaml'
+      VersioningConfiguration:
+        Status: Enabled
