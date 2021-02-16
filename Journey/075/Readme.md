@@ -1,52 +1,14 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Day 75
 
-# New post title here
+Kept digging into AWS CloudFormation today and read more about best practices, stack organization, and experimented with how drift works to detect config changes outside of CloudFormation.
 
-## Introduction
+# Resources
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- [AWS CloudFormation best practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
+- [Level up your CloudFormation usage with these 4 tips](https://dev.to/aws-builders/level-up-your-cloudformation-usage-with-these-4-tips-2hpa) by [@benbridts](https://twitter.com/benbridts)
+- [How-to organize CloudFormation stacks to minimize blast radius](https://dev.to/aws-builders/how-to-organize-cloudformation-stacks-to-minimize-blast-radius-1lee) by [@glnds](https://twitter.com/glnds)
+- [Detecting unmanaged configuration changes to stacks and resources](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-stack-drift.html)
 
-## Prerequisite
+# Social proof
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[The tweet](https://twitter.com/jennapederson/status/1361474184006815744?s=20)

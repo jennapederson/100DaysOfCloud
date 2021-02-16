@@ -121,7 +121,6 @@ You can find me on:
 - ☁️ [Day 62](Journey/062/Readme.md)
 - ☁️ [Day 63](Journey/063/Readme.md)
 - ☁️ [Day 64](Journey/064/Readme.md)
-<!--
 - ☁️ [Day 65](Journey/065/Readme.md)
 - ☁️ [Day 66](Journey/066/Readme.md)
 - ☁️ [Day 67](Journey/067/Readme.md)
@@ -136,6 +135,7 @@ You can find me on:
 - ☁️ [Day 73](Journey/073/Readme.md)
 - ☁️ [Day 74](Journey/074/Readme.md)
 - ☁️ [Day 75](Journey/075/Readme.md)
+<!--
 - ☁️ [Day 76](Journey/076/Readme.md)
 - ☁️ [Day 77](Journey/077/Readme.md)
 - ☁️ [Day 78](Journey/078/Readme.md)
