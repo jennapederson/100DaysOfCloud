@@ -138,13 +138,13 @@ You can find me on:
 - ☁️ [Day 76](Journey/076/Readme.md)
 - ☁️ [Day 77](Journey/077/Readme.md)
 - ☁️ [Day 78](Journey/078/Readme.md)
-<!--
 - ☁️ [Day 79](Journey/079/Readme.md)
 - ☁️ [Day 80](Journey/080/Readme.md)
 
 ## Up into the mountains
 
 - ☁️ [Day 81](Journey/081/Readme.md)
+<!--
 - ☁️ [Day 82](Journey/082/Readme.md)
 - ☁️ [Day 83](Journey/083/Readme.md)
 - ☁️ [Day 84](Journey/084/Readme.md)
