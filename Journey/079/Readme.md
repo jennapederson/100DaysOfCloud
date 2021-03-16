@@ -4,7 +4,7 @@ Set up an AWS Lambda function that gets triggered on DynamoDB record insert. Set
  
 # Resources
 
-- https://docs.amplify.aws/cli/usage/lambda-triggers#as-a-part-of-the-graphql-api-types-with-model-annotation
+[Amplify Advanced Workflows: Lambda Triggers](https://docs.amplify.aws/cli/usage/lambda-triggers#as-a-part-of-the-graphql-api-types-with-model-annotation)
 
 # Social proof
 

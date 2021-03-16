@@ -144,8 +144,8 @@ You can find me on:
 ## Up into the mountains
 
 - ☁️ [Day 81](Journey/081/Readme.md)
-<!--
 - ☁️ [Day 82](Journey/082/Readme.md)
+<!--
 - ☁️ [Day 83](Journey/083/Readme.md)
 - ☁️ [Day 84](Journey/084/Readme.md)
 - ☁️ [Day 85](Journey/085/Readme.md)
